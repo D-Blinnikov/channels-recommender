@@ -1,0 +1,7 @@
+sentence-transformers>=2.6.0
+transformers>=4.35.0
+
+# FAISS — для семантического поиска
+faiss-cpu>=1.7.4
+
+beautifulsoup4>=4.11.0
