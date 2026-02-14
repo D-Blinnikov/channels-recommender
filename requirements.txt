@@ -9,3 +9,6 @@ telethon
 timedelta
 huggingface_hub
 zstandard
+openai
+gigachat
+emoji
