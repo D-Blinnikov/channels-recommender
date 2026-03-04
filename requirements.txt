@@ -12,3 +12,5 @@ zstandard
 openai
 gigachat
 emoji
+json_repair
+datasets
