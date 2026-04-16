@@ -5,3 +5,6 @@
 /cross_encoder_raw
 .env
 /posts_index.faiss
+/lancedb_store
+/data/silver
+/models
